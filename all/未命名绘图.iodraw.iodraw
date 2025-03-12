@@ -95,7 +95,7 @@
         <mxCell id="VPrZCt2_yAnmDLvHUVD--38" value="数字资源动态权重分配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420.5" y="275" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VPrZCt2_yAnmDLvHUVD--70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shape=arrow;" edge="1" parent="1" source="VPrZCt2_yAnmDLvHUVD--39">
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shape=link;" edge="1" parent="1" source="VPrZCt2_yAnmDLvHUVD--39">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="680" y="200" as="targetPoint" />
           </mxGeometry>
