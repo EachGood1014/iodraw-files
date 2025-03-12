@@ -211,9 +211,6 @@
         <mxCell id="VPrZCt2_yAnmDLvHUVD--66" value="生成推理依据" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="VPrZCt2_yAnmDLvHUVD--55">
           <mxGeometry x="20" y="276" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VPrZCt2_yAnmDLvHUVD--71" value="输出" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="655" y="167" width="50" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="150" as="targetPoint" />
@@ -224,7 +221,7 @@
           <mxGeometry x="83" y="100" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--74" value="输出：待优化的数字资源" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="590" y="137" width="160" height="30" as="geometry" />
+          <mxGeometry x="600" y="167" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
