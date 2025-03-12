@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VPrZCt2_yAnmDLvHUVD--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VPrZCt2_yAnmDLvHUVD--1">
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VPrZCt2_yAnmDLvHUVD--1" target="VPrZCt2_yAnmDLvHUVD--9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="90" y="380" as="targetPoint" />
           </mxGeometry>
@@ -49,7 +49,7 @@
           <mxGeometry x="110" y="493" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--11" value="信息共享层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="195" y="463" width="80" height="30" as="geometry" />
+          <mxGeometry x="195" y="465" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--12" value="隐私保护共享" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="543" width="250" height="30" as="geometry" />
