@@ -19,7 +19,7 @@
         <mxCell id="VPrZCt2_yAnmDLvHUVD--5" value="个体目标建模（个体利益导向）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="266" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VPrZCt2_yAnmDLvHUVD--7" value="生态优化资源列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--7" value="优化数字资源列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="326" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--8" value="生成推理依据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
