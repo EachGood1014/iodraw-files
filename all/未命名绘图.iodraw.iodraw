@@ -58,7 +58,7 @@
           <mxGeometry x="400" y="340" width="290" height="243" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--20" value="多轮协商（debate）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="493" width="80" height="40" as="geometry" />
+          <mxGeometry x="420" y="533" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--21" value="群智博弈阶段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="495" y="340" width="100" height="30" as="geometry" />
@@ -70,7 +70,7 @@
           <mxGeometry x="550" y="543" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--24" value="博弈策略生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="503" width="110" height="30" as="geometry" />
+          <mxGeometry x="450" y="410" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
