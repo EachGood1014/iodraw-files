@@ -64,10 +64,10 @@
           <mxGeometry x="495" y="340" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--22" value="利益诉求匹配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="493" width="110" height="30" as="geometry" />
+          <mxGeometry x="420" y="493" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--23" value="博弈策略生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="440" width="110" height="30" as="geometry" />
+          <mxGeometry x="420" y="440" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--24" value="博弈策略生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="410" width="110" height="30" as="geometry" />
