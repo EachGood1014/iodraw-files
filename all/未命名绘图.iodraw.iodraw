@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="XJrhPObFjNNUHWVoUED6">
-    <mxGraphModel dx="2166" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2166" dy="1822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -217,13 +217,13 @@
         <mxCell id="VPrZCt2_yAnmDLvHUVD--75" value="分布式认知对齐" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="305" y="720" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VPrZCt2_yAnmDLvHUVD--76" value="" style="curved=1;endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="VPrZCt2_yAnmDLvHUVD--25">
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--76" value="" style="curved=1;endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="670" y="470" as="sourcePoint" />
-            <mxPoint x="660" y="484" as="targetPoint" />
+            <mxPoint x="800" y="185.5" as="sourcePoint" />
+            <mxPoint x="1090" y="-39.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="660" y="534" />
-              <mxPoint x="610" y="484" />
+              <mxPoint x="790" y="249.5" />
+              <mxPoint x="740" y="199.5" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -241,7 +241,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--81" value="&lt;span style=&quot;color: rgb(44, 44, 54); font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, Inter, NotoSansHans, system-ui, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.32px; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-line; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;企业上链、业务流程改造建议&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="290" y="103" width="370" height="24" as="geometry" />
+          <mxGeometry x="-90" y="143" width="370" height="24" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--82" value="&lt;span style=&quot;color: rgb(44, 44, 54); font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, Inter, NotoSansHans, system-ui, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.32px; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-line; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;单智能体决策依据：预期&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: rgb(44, 44, 54); font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, Inter, NotoSansHans, system-ui, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.32px; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-line; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;时间内&lt;/span&gt;&lt;span style=&quot;color: rgb(44, 44, 54); font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, Inter, NotoSansHans, system-ui, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.32px; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-line; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;投入产出比&amp;gt;=1、有投入型&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(44, 44, 54); font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, Inter, NotoSansHans, system-ui, sans-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.32px; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-line; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;无投入型&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="-58" y="207.5" width="168" height="40" as="geometry" />
