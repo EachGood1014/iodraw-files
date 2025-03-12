@@ -253,13 +253,13 @@
           <mxGeometry x="610" y="598" width="168" height="22" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--84" value="优化策略" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="414" y="584" width="76" height="30" as="geometry" />
+          <mxGeometry x="414" y="584" width="136" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--85" value="群智投票" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="414" y="460" width="76" height="110" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--86" value="优化策略" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="510.5" y="487" width="76" height="30" as="geometry" />
+          <mxGeometry x="510.5" y="480" width="49.5" height="37" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--87" value="优化策略" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="422.5" y="620" width="127.5" height="30" as="geometry" />
