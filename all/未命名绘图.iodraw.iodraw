@@ -13,7 +13,7 @@
         <mxCell id="VPrZCt2_yAnmDLvHUVD--3" value="单个企业推理和决策" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="105" y="110" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VPrZCt2_yAnmDLvHUVD--4" value="推理决策模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--4" value="阶段性协同收益分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="146" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--5" value="个体目标建模（个体利益导向）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
