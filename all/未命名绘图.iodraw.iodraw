@@ -19,8 +19,8 @@
         <mxCell id="VPrZCt2_yAnmDLvHUVD--5" value="个体目标建模（个体利益导向）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="290" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VPrZCt2_yAnmDLvHUVD--7" value="个体目标建模（个体利益导向）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="300" width="120" height="40" as="geometry" />
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--7" value="生态优化资源列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="350" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
