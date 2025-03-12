@@ -28,6 +28,9 @@
         <mxCell id="VPrZCt2_yAnmDLvHUVD--9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="460" width="470" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--10" value="生成推理依据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="396" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
