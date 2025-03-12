@@ -226,13 +226,13 @@
         <mxCell id="VPrZCt2_yAnmDLvHUVD--75" value="分布式认知对齐" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="305" y="720" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VPrZCt2_yAnmDLvHUVD--76" value="" style="curved=1;endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1">
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--76" value="" style="curved=1;endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="VPrZCt2_yAnmDLvHUVD--25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="490" as="sourcePoint" />
-            <mxPoint x="430" y="440" as="targetPoint" />
+            <mxPoint x="670" y="470" as="sourcePoint" />
+            <mxPoint x="660" y="484" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="430" y="490" />
-              <mxPoint x="380" y="440" />
+              <mxPoint x="660" y="534" />
+              <mxPoint x="610" y="484" />
             </Array>
           </mxGeometry>
         </mxCell>
