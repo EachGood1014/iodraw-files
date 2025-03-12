@@ -46,7 +46,7 @@
           <mxGeometry x="83" y="463" width="290" height="120" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--10" value="个体目标+优化数字资源+推理依据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="103" y="493" width="250" height="40" as="geometry" />
+          <mxGeometry x="103" y="493" width="250" height="27" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--11" value="信息共享层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="188" y="463" width="80" height="30" as="geometry" />
@@ -73,7 +73,7 @@
           <mxGeometry x="420" y="400" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--25" value="共识算法执行" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="340" width="250" height="30" as="geometry" />
+          <mxGeometry x="420" y="341" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
