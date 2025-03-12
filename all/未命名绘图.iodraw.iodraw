@@ -258,7 +258,7 @@
         <mxCell id="VPrZCt2_yAnmDLvHUVD--85" value="群智投票" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="414" y="460" width="76" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="VPrZCt2_yAnmDLvHUVD--86" value="优化策略" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--86" value="更新方法" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="510.5" y="480" width="49.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--87" value="初始集生成方法" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
