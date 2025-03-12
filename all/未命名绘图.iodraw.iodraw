@@ -55,7 +55,7 @@
           <mxGeometry x="103" y="543" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="340" width="290" height="243" as="geometry" />
+          <mxGeometry x="400" y="300" width="290" height="283" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--20" value="多轮协商（debate）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="550" width="250" height="23" as="geometry" />
