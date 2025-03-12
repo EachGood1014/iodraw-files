@@ -43,16 +43,16 @@
           <mxGeometry x="168" y="386" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="463" width="290" height="120" as="geometry" />
+          <mxGeometry x="83" y="463" width="290" height="120" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--10" value="个体目标+优化数字资源+推理依据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="493" width="250" height="40" as="geometry" />
+          <mxGeometry x="103" y="493" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--11" value="信息共享层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="30" y="396" width="80" height="30" as="geometry" />
+          <mxGeometry x="188" y="463" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--12" value="隐私保护共享" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="543" width="250" height="30" as="geometry" />
+          <mxGeometry x="103" y="543" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
