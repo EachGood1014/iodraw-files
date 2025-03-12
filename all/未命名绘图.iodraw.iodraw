@@ -223,8 +223,8 @@
         <mxCell id="VPrZCt2_yAnmDLvHUVD--74" value="输出：待优化的数字资源" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="600" y="167" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VPrZCt2_yAnmDLvHUVD--75" value="信息共享层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="198" y="544" width="80" height="30" as="geometry" />
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--75" value="分布式认知对齐" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="305" y="720" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
