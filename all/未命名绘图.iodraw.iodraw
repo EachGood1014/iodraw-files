@@ -78,8 +78,8 @@
         <mxCell id="VPrZCt2_yAnmDLvHUVD--25" value="共识算法执行" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="341" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VPrZCt2_yAnmDLvHUVD--27" value="隐私保护共享" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="113" y="553" width="250" height="30" as="geometry" />
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--27" value="联邦学习建模" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="103" y="590" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
