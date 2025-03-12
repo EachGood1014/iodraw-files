@@ -105,16 +105,16 @@
           <mxGeometry x="103" y="661" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="181.5" width="170" height="218.5" as="geometry" />
+          <mxGeometry x="400" y="181.5" width="170" height="238.5" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--35" value="协同决策阶段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="441.5" y="181.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--36" value="全局优化建模" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="426.5" y="333" width="130" height="30" as="geometry" />
+          <mxGeometry x="426.5" y="334" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--37" value="数字资源优化冲突消解" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="426.5" y="294" width="130" height="30" as="geometry" />
+          <mxGeometry x="426.5" y="295" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--38" value="数字资源动态权重分配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="426.5" y="254" width="130" height="30" as="geometry" />
