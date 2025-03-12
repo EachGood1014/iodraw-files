@@ -45,8 +45,8 @@
         <mxCell id="VPrZCt2_yAnmDLvHUVD--23" value="均衡博弈策略" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="890" y="543.5" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VPrZCt2_yAnmDLvHUVD--24" value="激励机制设计" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="367" y="467" width="94" height="30" as="geometry" />
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--24" value="激励机制" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="390" y="467" width="71" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--25" value="共识算法" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="390" y="530" width="70" height="30" as="geometry" />
