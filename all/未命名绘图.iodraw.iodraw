@@ -220,8 +220,8 @@
             <mxPoint x="100" y="130" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VPrZCt2_yAnmDLvHUVD--73" value="输出" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="80" y="100" width="50" height="30" as="geometry" />
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--73" value="输入：优化后的数字资源" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="25" y="100" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
