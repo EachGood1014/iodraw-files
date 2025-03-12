@@ -61,37 +61,37 @@
           <mxGeometry x="103" y="614" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="371" width="170" height="283" as="geometry" />
+          <mxGeometry x="400" y="416" width="170" height="283" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VPrZCt2_yAnmDLvHUVD--20" target="VPrZCt2_yAnmDLvHUVD--22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--20" value="多轮协商（debate）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="621" width="130" height="23" as="geometry" />
+          <mxGeometry x="420" y="666" width="130" height="23" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--21" value="群智博弈阶段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="435" y="371" width="100" height="30" as="geometry" />
+          <mxGeometry x="435" y="416" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VPrZCt2_yAnmDLvHUVD--22" target="VPrZCt2_yAnmDLvHUVD--23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--22" value="利益诉求匹配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="573" width="130" height="30" as="geometry" />
+          <mxGeometry x="420" y="618" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VPrZCt2_yAnmDLvHUVD--23" target="VPrZCt2_yAnmDLvHUVD--24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--23" value="博弈策略生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="521" width="130" height="30" as="geometry" />
+          <mxGeometry x="420" y="566" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VPrZCt2_yAnmDLvHUVD--24" target="VPrZCt2_yAnmDLvHUVD--25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--24" value="激励机制设计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="471" width="130" height="30" as="geometry" />
+          <mxGeometry x="420" y="516" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--25" value="共识算法执行" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="412" width="130" height="30" as="geometry" />
+          <mxGeometry x="420" y="457" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VPrZCt2_yAnmDLvHUVD--9" target="VPrZCt2_yAnmDLvHUVD--19">
           <mxGeometry relative="1" as="geometry">
