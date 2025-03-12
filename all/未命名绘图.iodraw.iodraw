@@ -261,6 +261,9 @@
         <mxCell id="VPrZCt2_yAnmDLvHUVD--84" value="优化策略" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="424" y="630" width="116" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--85" value="群智投票" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="622" y="688" width="116" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
