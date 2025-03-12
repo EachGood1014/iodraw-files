@@ -36,6 +36,9 @@
         <mxCell id="VPrZCt2_yAnmDLvHUVD--30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="VPrZCt2_yAnmDLvHUVD--20" target="VPrZCt2_yAnmDLvHUVD--22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="VPrZCt2_yAnmDLvHUVD--20" target="VPrZCt2_yAnmDLvHUVD--22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--20" value="多轮协商（debate）" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="420" y="660" width="130" height="31" as="geometry" />
         </mxCell>
