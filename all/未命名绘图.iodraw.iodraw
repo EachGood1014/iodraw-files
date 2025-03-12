@@ -60,6 +60,9 @@
         <mxCell id="VPrZCt2_yAnmDLvHUVD--12" value="隐私保护共享" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="103" y="614" width="250" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VPrZCt2_yAnmDLvHUVD--19" target="VPrZCt2_yAnmDLvHUVD--34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="418" width="170" height="283" as="geometry" />
         </mxCell>
@@ -70,7 +73,7 @@
           <mxGeometry x="420" y="668" width="130" height="23" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--21" value="群智博弈阶段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="435" y="418" width="100" height="30" as="geometry" />
+          <mxGeometry x="435" y="437" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VPrZCt2_yAnmDLvHUVD--22" target="VPrZCt2_yAnmDLvHUVD--23">
           <mxGeometry relative="1" as="geometry" />
@@ -100,11 +103,6 @@
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--27" value="联邦学习建模" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="103" y="661" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VPrZCt2_yAnmDLvHUVD--40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VPrZCt2_yAnmDLvHUVD--34">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="485.3333333333335" y="390.0000000000001" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="181.5" width="170" height="195.5" as="geometry" />
