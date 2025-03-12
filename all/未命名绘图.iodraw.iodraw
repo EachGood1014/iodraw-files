@@ -282,6 +282,9 @@
         <mxCell id="VPrZCt2_yAnmDLvHUVD--94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="VPrZCt2_yAnmDLvHUVD--20" target="VPrZCt2_yAnmDLvHUVD--20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--95" value="数字资源动态权重分配" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="490.5" y="193.5" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
