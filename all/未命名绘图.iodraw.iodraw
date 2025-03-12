@@ -9,39 +9,6 @@
             <mxPoint x="90" y="451" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VPrZCt2_yAnmDLvHUVD--1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="148" y="181" width="160" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="VPrZCt2_yAnmDLvHUVD--14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VPrZCt2_yAnmDLvHUVD--2" target="VPrZCt2_yAnmDLvHUVD--5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VPrZCt2_yAnmDLvHUVD--2" value="数字资源评估" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="168" y="277" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="VPrZCt2_yAnmDLvHUVD--3" value="单个企业决策阶段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="168" y="181" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VPrZCt2_yAnmDLvHUVD--13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VPrZCt2_yAnmDLvHUVD--4" target="VPrZCt2_yAnmDLvHUVD--2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VPrZCt2_yAnmDLvHUVD--4" value="阶段性协同收益分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="168" y="217" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="VPrZCt2_yAnmDLvHUVD--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VPrZCt2_yAnmDLvHUVD--5" target="VPrZCt2_yAnmDLvHUVD--7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VPrZCt2_yAnmDLvHUVD--5" value="个体目标建模（个体利益导向）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="168" y="337" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="VPrZCt2_yAnmDLvHUVD--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VPrZCt2_yAnmDLvHUVD--7" target="VPrZCt2_yAnmDLvHUVD--8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VPrZCt2_yAnmDLvHUVD--7" value="优化数字资源列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="168" y="397" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="VPrZCt2_yAnmDLvHUVD--8" value="生成推理依据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="168" y="457" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="83" y="534" width="290" height="167" as="geometry" />
         </mxCell>
@@ -121,6 +88,78 @@
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--39" value="协同方案生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="426.5" y="217.5" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--42" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="148" y="181" width="160" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VPrZCt2_yAnmDLvHUVD--42">
+          <mxGeometry width="160" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VPrZCt2_yAnmDLvHUVD--42" source="VPrZCt2_yAnmDLvHUVD--2" target="VPrZCt2_yAnmDLvHUVD--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--2" value="数字资源评估" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VPrZCt2_yAnmDLvHUVD--42">
+          <mxGeometry x="20" y="96" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--3" value="单个企业决策阶段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="VPrZCt2_yAnmDLvHUVD--42">
+          <mxGeometry x="20" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VPrZCt2_yAnmDLvHUVD--42" source="VPrZCt2_yAnmDLvHUVD--4" target="VPrZCt2_yAnmDLvHUVD--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--4" value="阶段性协同收益分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VPrZCt2_yAnmDLvHUVD--42">
+          <mxGeometry x="20" y="36" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VPrZCt2_yAnmDLvHUVD--42" source="VPrZCt2_yAnmDLvHUVD--5" target="VPrZCt2_yAnmDLvHUVD--7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--5" value="个体目标建模（个体利益导向）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VPrZCt2_yAnmDLvHUVD--42">
+          <mxGeometry x="20" y="156" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VPrZCt2_yAnmDLvHUVD--42" source="VPrZCt2_yAnmDLvHUVD--7" target="VPrZCt2_yAnmDLvHUVD--8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--7" value="优化数字资源列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VPrZCt2_yAnmDLvHUVD--42">
+          <mxGeometry x="20" y="216" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--8" value="生成推理依据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VPrZCt2_yAnmDLvHUVD--42">
+          <mxGeometry x="20" y="276" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--43" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="158" y="191" width="160" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VPrZCt2_yAnmDLvHUVD--43">
+          <mxGeometry width="160" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VPrZCt2_yAnmDLvHUVD--43" source="VPrZCt2_yAnmDLvHUVD--46" target="VPrZCt2_yAnmDLvHUVD--51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--46" value="数字资源评估" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VPrZCt2_yAnmDLvHUVD--43">
+          <mxGeometry x="20" y="96" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--47" value="单个企业决策阶段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="VPrZCt2_yAnmDLvHUVD--43">
+          <mxGeometry x="20" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VPrZCt2_yAnmDLvHUVD--43" source="VPrZCt2_yAnmDLvHUVD--49" target="VPrZCt2_yAnmDLvHUVD--46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--49" value="阶段性协同收益分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VPrZCt2_yAnmDLvHUVD--43">
+          <mxGeometry x="20" y="36" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VPrZCt2_yAnmDLvHUVD--43" source="VPrZCt2_yAnmDLvHUVD--51" target="VPrZCt2_yAnmDLvHUVD--53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--51" value="个体目标建模（个体利益导向）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VPrZCt2_yAnmDLvHUVD--43">
+          <mxGeometry x="20" y="156" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VPrZCt2_yAnmDLvHUVD--43" source="VPrZCt2_yAnmDLvHUVD--53" target="VPrZCt2_yAnmDLvHUVD--54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--53" value="优化数字资源列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VPrZCt2_yAnmDLvHUVD--43">
+          <mxGeometry x="20" y="216" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VPrZCt2_yAnmDLvHUVD--54" value="生成推理依据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VPrZCt2_yAnmDLvHUVD--43">
+          <mxGeometry x="20" y="276" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
