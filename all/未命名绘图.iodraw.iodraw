@@ -58,7 +58,7 @@
           <mxGeometry x="103" y="543" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="300" width="290" height="283" as="geometry" />
+          <mxGeometry x="400" y="300" width="170" height="283" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--20" value="多轮协商（debate）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="550" width="130" height="23" as="geometry" />
@@ -76,7 +76,7 @@
           <mxGeometry x="420" y="400" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--25" value="共识算法执行" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="341" width="250" height="30" as="geometry" />
+          <mxGeometry x="420" y="341" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--27" value="联邦学习建模" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="103" y="590" width="250" height="30" as="geometry" />
