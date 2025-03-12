@@ -46,7 +46,7 @@
           <mxGeometry x="890" y="543.5" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--24" value="激励机制设计" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="730" y="310" width="130" height="30" as="geometry" />
+          <mxGeometry x="356" y="458.5" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--25" value="共识算法执行" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="830" y="230" width="130" height="30" as="geometry" />
