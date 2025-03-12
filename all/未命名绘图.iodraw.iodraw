@@ -27,17 +27,14 @@
         <mxCell id="VPrZCt2_yAnmDLvHUVD--12" value="隐私保护共享" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="103" y="614" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VPrZCt2_yAnmDLvHUVD--41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="VPrZCt2_yAnmDLvHUVD--19" target="VPrZCt2_yAnmDLvHUVD--34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--19" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="400" y="440" width="170" height="261" as="geometry" />
+          <mxGeometry x="400" y="340" width="170" height="361" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--20" value="生态评价（生态、投入主体）" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="430.5" y="470" width="116" height="48" as="geometry" />
+          <mxGeometry x="430.5" y="469" width="116" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--21" value="群智博弈阶段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="435" y="436" width="100" height="30" as="geometry" />
+          <mxGeometry x="435" y="435" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VPrZCt2_yAnmDLvHUVD--22" value="利益诉求差异化分析" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="420" y="658" width="130" height="30" as="geometry" />
