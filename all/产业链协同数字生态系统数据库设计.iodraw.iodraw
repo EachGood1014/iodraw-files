@@ -568,7 +568,7 @@
         <mxCell id="iFJmrLeukM-0pL3g_Pdj-141" value="+ 开发资源: method" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="iFJmrLeukM-0pL3g_Pdj-86" vertex="1">
           <mxGeometry y="214" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="haS4p_70JHMv11-79ZfN-1" value="+ 打包资源: method" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="iFJmrLeukM-0pL3g_Pdj-86">
+        <mxCell id="haS4p_70JHMv11-79ZfN-1" value="+ 签名打包: method" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="iFJmrLeukM-0pL3g_Pdj-86">
           <mxGeometry y="240" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="iFJmrLeukM-0pL3g_Pdj-84" value="+ 发布资源: method" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="iFJmrLeukM-0pL3g_Pdj-86" vertex="1">
