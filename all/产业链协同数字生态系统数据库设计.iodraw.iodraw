@@ -393,7 +393,7 @@
         <mxCell id="vwssENpXTQeOPlysv7KX-21" value="+ 调用次数: int" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="vwssENpXTQeOPlysv7KX-13" vertex="1">
           <mxGeometry y="234" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="vwssENpXTQeOPlysv7KX-22" value="+ 平均评分: float" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="vwssENpXTQeOPlysv7KX-13" vertex="1">
+        <mxCell id="vwssENpXTQeOPlysv7KX-22" value="+ 用户评分: float" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="vwssENpXTQeOPlysv7KX-13" vertex="1">
           <mxGeometry y="260" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="vwssENpXTQeOPlysv7KX-23" value="+ 上架时间: datetime" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="vwssENpXTQeOPlysv7KX-13" vertex="1">
