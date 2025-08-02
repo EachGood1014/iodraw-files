@@ -583,7 +583,7 @@
         <mxCell id="iFJmrLeukM-0pL3g_Pdj-83" value="+ 接受任务: method" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="iFJmrLeukM-0pL3g_Pdj-86" vertex="1">
           <mxGeometry y="344" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="iFJmrLeukM-0pL3g_Pdj-82" value="+ 运营维护: method" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="iFJmrLeukM-0pL3g_Pdj-86" vertex="1">
+        <mxCell id="iFJmrLeukM-0pL3g_Pdj-82" value="+ 收集反馈: method" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="iFJmrLeukM-0pL3g_Pdj-86" vertex="1">
           <mxGeometry y="370" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="iFJmrLeukM-0pL3g_Pdj-81" value="+ 资源反馈分析: method" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="iFJmrLeukM-0pL3g_Pdj-86" vertex="1">
