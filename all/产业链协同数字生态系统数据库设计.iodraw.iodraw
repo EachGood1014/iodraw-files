@@ -542,7 +542,7 @@
           <mxGeometry y="396" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="iFJmrLeukM-0pL3g_Pdj-86" value="开发者" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#99FF99;swimlaneFillColor=#99FF99;" parent="1" vertex="1">
-          <mxGeometry x="1210" y="20" width="160" height="526" as="geometry" />
+          <mxGeometry x="1470" y="20" width="160" height="526" as="geometry" />
         </mxCell>
         <mxCell id="vwssENpXTQeOPlysv7KX-4" value="+ 开发者ID: str" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="iFJmrLeukM-0pL3g_Pdj-86" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
