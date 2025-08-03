@@ -568,7 +568,7 @@
         <mxCell id="haS4p_70JHMv11-79ZfN-8" value="+ 状态: str" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="iFJmrLeukM-0pL3g_Pdj-86">
           <mxGeometry y="208" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="haS4p_70JHMv11-79ZfN-51" value="+ 状态: str" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="iFJmrLeukM-0pL3g_Pdj-86">
+        <mxCell id="haS4p_70JHMv11-79ZfN-51" value="+ 积分余额: int" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="iFJmrLeukM-0pL3g_Pdj-86">
           <mxGeometry y="234" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="vwssENpXTQeOPlysv7KX-10" value="+ 历史平局发布频率: float" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="iFJmrLeukM-0pL3g_Pdj-86" vertex="1">
