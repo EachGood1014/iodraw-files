@@ -758,7 +758,7 @@
           <mxGeometry y="338" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="haS4p_70JHMv11-79ZfN-28" value="任务揭榜记录" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#CCFFFF;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#CCFFFF;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="440" width="160" height="210" as="geometry">
+          <mxGeometry x="1140" y="440" width="160" height="234" as="geometry">
             <mxRectangle x="350" y="42" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -780,8 +780,11 @@
         <mxCell id="haS4p_70JHMv11-79ZfN-34" value="+ 审核人: enum" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="haS4p_70JHMv11-79ZfN-28">
           <mxGeometry y="156" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="haS4p_70JHMv11-79ZfN-35" value="+ 接收时间: enum" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="haS4p_70JHMv11-79ZfN-28">
+        <mxCell id="haS4p_70JHMv11-79ZfN-35" value="+ 提交时间: enum" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="haS4p_70JHMv11-79ZfN-28">
           <mxGeometry y="182" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="haS4p_70JHMv11-79ZfN-50" value="+ 更新时间: enum" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="haS4p_70JHMv11-79ZfN-28">
+          <mxGeometry y="208" width="160" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
