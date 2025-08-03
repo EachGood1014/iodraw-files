@@ -901,13 +901,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="haS4p_70JHMv11-79ZfN-71" value="" style="endArrow=diamondThin;startArrow=diamondThin;html=1;rounded=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endFill=0;curved=0;" edge="1" parent="1" source="iFJmrLeukM-0pL3g_Pdj-112" target="iFJmrLeukM-0pL3g_Pdj-125">
+        <mxCell id="haS4p_70JHMv11-79ZfN-71" value="" style="endArrow=diamondThin;startArrow=diamondThin;html=1;rounded=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endFill=0;edgeStyle=elbowEdgeStyle;" edge="1" parent="1" source="iFJmrLeukM-0pL3g_Pdj-112" target="iFJmrLeukM-0pL3g_Pdj-125">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="310" as="sourcePoint" />
             <mxPoint x="470" y="260" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="470" y="360" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
